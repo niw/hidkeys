@@ -240,3 +240,5 @@ the newest features and options.
 /* #define USB_INTR_PENDING_BIT    INTF0 */
 
 #endif /* __usbconfig_h_included__ */
+
+/* vim:set ts=4 sw=4 expandtab: */
