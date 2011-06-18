@@ -159,7 +159,7 @@ the newest features and options.
  */
 #define USB_CFG_INTERFACE_CLASS     0x03    /* HID class */
 #define USB_CFG_INTERFACE_SUBCLASS  0       /* no boot interface */
-#define USB_CFG_INTERFACE_PROTOCOL  1       /* no protocol */
+#define USB_CFG_INTERFACE_PROTOCOL  0       /* no protocol */
 /* See USB specification if you want to conform to an existing device class or
  * protocol.
  */
